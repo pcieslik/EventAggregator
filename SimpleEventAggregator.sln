@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleEventAggregator", "SimpleEventAggregator\SimpleEventAggregator.csproj", "{4AAB596A-8A92-4283-B221-3B726C81D18E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleEventAggregator.Test", "SimpleEventAggregator.Test\SimpleEventAggregator.Test.csproj", "{B9DE356E-A56A-47D7-B85B-2DE2444B4ED7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4AAB596A-8A92-4283-B221-3B726C81D18E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AAB596A-8A92-4283-B221-3B726C81D18E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AAB596A-8A92-4283-B221-3B726C81D18E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9DE356E-A56A-47D7-B85B-2DE2444B4ED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9DE356E-A56A-47D7-B85B-2DE2444B4ED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9DE356E-A56A-47D7-B85B-2DE2444B4ED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9DE356E-A56A-47D7-B85B-2DE2444B4ED7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
